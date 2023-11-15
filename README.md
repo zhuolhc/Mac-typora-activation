@@ -8,4 +8,4 @@
 *将后面的e.hasActivated修改为"true"*<hr>
 **如果修改不了随便找一个地方写"true"再把它复制替换到e.hasActivated原有位置**<hr>
 **enjoy your typora**<hr>
-**有能力的朋友请付费支持原软件，仅为无法负担的学生提供**<hr>
+**有能力的朋友请付费支持原软件，仅为无法负担的学生等人群提供**<hr>
