@@ -4,6 +4,7 @@
 *首先去官网下载<https://typoraio.cn/>官方软件*<hr>
 *然后command+space并输入/Applications/Typora.app/Contents/Resources/TypeMark/并打开文件夹*<hr>
 *接着依次点击page-dist => static => js => Licenselndex.180dd4c7.54395836.chunk.js => 打开编辑器编辑js代码*<hr>
+*summary:```cd /Applications/Typora.app/Contents/Resources/TypeMark/page-dist/static/js/```in terminal*
 *command+f全文搜索e.hasActivated 找到 hasActivated="true"==e.hasActivated *<hr>
 *将后面的e.hasActivated修改为"true"*<hr>
 **如果修改不了随便找一个地方写"true"再把它复制替换到e.hasActivated原有位置**<hr>
