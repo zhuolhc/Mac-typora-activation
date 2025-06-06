@@ -1,5 +1,5 @@
 # Mac-typora-activation
-<img src="https://i.postimg.cc/g0q3q3vz/logo.png" width = "400" >
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 ***一个仅仅需要修改官方配置文件的方法，非破解版，无需下载额外软件的typora Mac 免费激活方法***<hr>
 *首先去官网下载<https://typoraio.cn/>官方软件*<hr>
 *然后command+space并输入/Applications/Typora.app/Contents/Resources/TypeMark/并打开文件夹*<hr>
